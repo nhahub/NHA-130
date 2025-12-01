@@ -53,13 +53,13 @@ This project uses a **mock train ticket dataset** for **National Rail (UK)** cov
 2. **<mark>Optional:</mark> Create a Virtual Environment** <br />
    It's recommended to use a virtual environment to avoid conflicts with existing Python libraries or versions you may have installed globally. To create and activate a virtual environment, follow these steps:
 
-   - **<div style="display: flex; align-items: bottom;"><span>Linux/macOS </span><</div>** 
+   - **<div style="display: flex; align-items: bottom;"><span>Linux/macOS </span></div>** 
    ```
    python3 -m venv venv          # Create virtual environment
    source venv/bin/activate      # Activate virtual environment
    ```
 
-- **<div style="display: flex; align-items: bottom;"><span>Windows </span><</div>** 
+- **<div style="display: flex; align-items: bottom;"><span>Windows </span></div>** 
 
     - Command Prompt (CMD):
     ```
