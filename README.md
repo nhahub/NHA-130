@@ -29,7 +29,6 @@ This project uses a **mock train ticket dataset** for **National Rail (UK)** cov
 - Delay information (scheduled vs. actual times)  
 - Ticket price  
 - Railcard usage  
-- Route and operator details  
 - Additional metadata for analysis
 
 ## Features
