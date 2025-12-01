@@ -85,6 +85,6 @@ This project uses a **mock train ticket dataset** for **National Rail (UK)** cov
    <br />
 
 ## How to Use
-1. Check dataset in `dataset/`  
-2. Run cleaning.ipynb in `code/ or open the web page version`  
-3. Open `dashboard/UK_Train_Rides.pbix` in Power BI
+1. Check dataset in `dataset/`.
+2. Run cleaning.ipynb in `code/`  or open the web page version.
+3. Open `dashboard/UK_Train_Rides.pbix` in Power BI.
